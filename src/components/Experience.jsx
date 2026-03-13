@@ -85,7 +85,7 @@ const EXPERIENCE = [
   },
   {
     id: "qk-sre",
-    title: "Software Engineer -Site Reliability Engineer",
+    title: "Software Engineer -Site Reliability",
     company: "QualityKiosk Technologies, India",
     date: "2022 – 2023",
     location: "India",
